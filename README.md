@@ -41,6 +41,7 @@
 ### 📂 Projects
 - 📚 Library Management System using Python
 - 📊 National Cyber Crime Data Analysis using Snowflake and Power BI
+- 📖 Worldwide Cyber Crime Data Analysis using Snowflake and Power BI
 
 ### 📫 Connect With Me
 - GitHub: [My GitHub Profile](https://github.com/dibyayan-107)
