@@ -61,4 +61,8 @@
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/dibyayan-paul-04493733a)
 
 ---
-⭐ *Sleep.Eat.Code.Repeat*
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=30&duration=2000&pause=1000&width=435&lines=Trust+yourself!;Build+projects!;Keep+learning!" alt="Typing SVG" />
+</p>
+
