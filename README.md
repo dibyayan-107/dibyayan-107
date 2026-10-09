@@ -38,6 +38,19 @@
 </p>
 
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg"
+      width="100%">
+  </picture>
+</p>
+
+
 ### 📂 Projects
 - 📚 Library Management System using Python
 - 📊 National Cyber Crime Data Analysis using Snowflake and Power BI
