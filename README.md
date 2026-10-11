@@ -63,6 +63,6 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=30&duration=2000&pause=1000&width=435&lines=Trust+yourself!;Build+projects!;Keep+learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=25&duration=2000&pause=1000&width=435&lines=Fun+to+Code!;Not+forced+to+code!" alt="Typing SVG" />
 </p>
 
